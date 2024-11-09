@@ -6,7 +6,7 @@
 
 * HTML kodları SEO standartlarına uygun bir şekilde oluşturulmuştur. 
 
- * Güncel HTML5 ve CSS JS ullanılarak oluşturulmuştur. 
+ * Güncel HTML5, CSS ve JS ullanılarak oluşturulmuştur. 
 
 <h1> ekran goruntusu </h1>
 
